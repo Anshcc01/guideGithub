@@ -44,7 +44,7 @@ This repository is designed to help you, 2nd-year students, get started with Git
 
 ## What is GitHub?
 
-GitHub is a web-based platform for version control, collaboration, and code sharing. It allows developers to work on projects together, track changes, and manage code efficiently. GitHub is widely used in the software development industry for both open-source and private projects.
+Github is a web-based platform for version control, collaboration, and code sharing. It allows developers to work on projects together, track changes, and manage code efficiently. GitHub is widely used in the software development industry for both open-source and private projects.
 
 ## Getting Started
 
